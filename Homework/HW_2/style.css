@@ -11,6 +11,7 @@
 }
 
 img {
+    object-fit: cover;
     min-width: 600px;
     height: auto;
 }
